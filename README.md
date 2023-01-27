@@ -1,9 +1,9 @@
-<h2 align="center">Olá eu sou Rafael Carvalho, aspirante a desenvolvedor e amante da tecnologia!!</h2>
+<h2 align="center">Olá eu sou Rafael Carvalho, Desenvolvedor Web e amante da tecnologia!!</h2>
 
 <h3 align="center">Iniciando no mundo do Desenvolvimento Web Front-end</h3>
 <h4 align="center">Estou na fase de aprendizado, procurando uma oportunidade de estágio para evoluir ainda mais as minhas habilidades.</h4>
 <h4 align="center">Sou flexível, eficiente e aprendo rápido. Meu foco é Front-end, e ja fiz alguns projetos simples com Html, Css, Bootstrap e Javascript.</h4>
-<h4 align="center">Possui conhecimento básico e intermediário em algumas linguagens e frameworks, porém em pouco tempo consigo dominar o stack.</h4>
+<h4 align="center">Possui intermediário em algumas linguagens e frameworks, porém em pouco tempo consigo dominar o stack.</h4>
 
 <div align="center">
   <a href="https://github.com/rafaelcarvalho-git">
