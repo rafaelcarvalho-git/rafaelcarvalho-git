@@ -1,9 +1,7 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
 <h3 align='center'><em>
-    Sou Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I). Atualmente cursando S.I pelo IFCE.
-    Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech.
-    Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar
-    por estar sempre ouvindo o próximo.</em>
+    Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I) sou estudante do curso de Sistemas de Informação no IFCE - Crato onde estou atualmente no 7° semestre.
+  Motivado a aprender continuamente e praticar meus conhecimentos, busco utilizar minhas habilidades para contribuir de maneira significativa para a comunidade de desenvolvimento.</em>
 </h3>
 <div align="center">
   <a href="https://rafaelcarvalho-dev.web.app/" target="_blank"><img
@@ -37,7 +35,7 @@
   <img align="center" alt="Rafa-Bootstrap" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-Styled" height="30" width="30" src="https://www.styled-components.com/atom.png">
-  <img align="center" alt="Rafa-Styled" height="30" width="30"
+  <img align="center" alt="Rafa-Styled" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Rafa-Antd" height="30" width="40"
     src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667">
