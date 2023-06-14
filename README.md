@@ -1,7 +1,7 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
 <h3 align='center'><em>
     Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I) sou estudante do curso de Sistemas de Informação no IFCE - Crato onde estou atualmente no 7° semestre.
-  Motivado a aprender continuamente e praticar meus conhecimentos, busco utilizar minhas habilidades para contribuir de maneira significativa para a comunidade de desenvolvimento.</em>
+  Motivado a aprender continuamente e praticar meus conhecimentos busco utilizar minhas habilidades para contribuir de maneira significativa para a comunidade de desenvolvimento.</em>
 </h3>
 <div align="center">
   <a href="https://rafaelcarvalho-dev.web.app/" target="_blank"><img
