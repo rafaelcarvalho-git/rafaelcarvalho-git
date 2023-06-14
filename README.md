@@ -1,7 +1,9 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
 <h3 align='center'><em>
-    Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I) sou estudante do curso de Sistemas de Informação no IFCE - Crato onde estou atualmente no 7° semestre.
-  Motivado a aprender continuamente e praticar meus conhecimentos busco utilizar minhas habilidades para contribuir de maneira significativa para a comunidade de desenvolvimento.</em>
+    Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I) sou estudante do curso de Sistemas de
+    Informação no IFCE - Crato onde estou atualmente no 7° semestre.
+    Motivado a aprender continuamente e praticar meus conhecimentos busco utilizar minhas habilidades para contribuir de
+    maneira significativa para a comunidade de desenvolvimento.</em>
 </h3>
 <div align="center">
   <a href="https://rafaelcarvalho-dev.web.app/" target="_blank"><img
@@ -91,7 +93,8 @@
 <h2 align='center'>✨ Hobbies </h2>
 <div>
   <p>⚽ Futebol: Meu esporte preferido, estou sempre jogando com meus amigos.</p>
-  <p>🥊 Artes Marciais: Treino lutas como boxe, muay thai, jiu-jitsu, capoeira e taekwondo. Pretendo treinar para competições quando terminar a faculdade.</p>
+  <p>🥊 Artes Marciais: Treino lutas como boxe, muay thai, jiu-jitsu, capoeira e taekwondo. Pretendo treinar para
+    competições quando terminar a faculdade.</p>
   <p>💪 Musculação: Faço academia sempre que possível para me manter em forma.</p>
   <p>🎮 Games: Gosto de jogos que possuam bastante história e mundo aberto, para zerar com calma e paciência.</p>
   <p>👨‍💻 Programação: Aproveito o tempo livre em casa para estudar e praticar os conteúdos de programação.</p>
