@@ -1,7 +1,7 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
 <h3 align='center'><em>
     Desenvolvedor Front-end e Analista da Tecnologia da Informação (T.I) sou estudante do curso de Sistemas de
-    Informação no IFCE - Crato onde estou atualmente no 7° semestre.
+    Informação no IFCE - Crato onde estou atualmente no 8° semestre.
     Motivado a aprender continuamente e praticar meus conhecimentos busco utilizar minhas habilidades para contribuir de
     maneira significativa para a comunidade de desenvolvimento.</em>
 </h3>
@@ -40,7 +40,9 @@
   <img align='center' alt='Rafa-Styled' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg'>
   <img align='center' alt='Rafa-Antd' height='30' width='40'
-    src='https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667'>
+src='https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667'>
+      <img align='center' alt='Rafa-Styled' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>
 </div>
 
 <br>
@@ -92,12 +94,12 @@
 
 <h2 align='center'>✨ Hobbies </h2>
 <div>
-  <p>⚽ Futebol: Meu esporte preferido, estou sempre jogando com meus amigos.</p>
-  <p>🥊 Artes Marciais: Treino lutas como boxe, muay thai, jiu-jitsu, capoeira e taekwondo. Pretendo treinar para
-    competições quando terminar a faculdade.</p>
-  <p>💪 Musculação: Faço academia sempre que possível para me manter em forma.</p>
-  <p>🎮 Games: Gosto de jogos que possuam bastante história e mundo aberto, para zerar com calma e paciência.</p>
-  <p>👨‍💻 Programação: Aproveito o tempo livre em casa para estudar e praticar os conteúdos de programação.</p>
+  <p>⚽ Football: My favorite sport that I always play with my friends.</p>
+  <p>🥊 Martial Arts: I train fights like boxing, muay thai, jiu-jitsu, capoeira and taekwondo. I intend to train for
+    competitions when you finish college.</p>
+  <p>💪 Bodybuilding: I go to the gym whenever possible to keep myself in shape.</p>
+  <p>🎮 Games: I like games that have a lot of story and open world, to zero calmly and patiently..</p>
+  <p>👨‍💻 Programming: I use my free time at home to study and practice programming content.</p>
 </div>
 <br>
 
