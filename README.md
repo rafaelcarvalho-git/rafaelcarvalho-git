@@ -21,8 +21,10 @@
 <div display: 'inline-block'>
   <img align='center' alt='Javascript' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
-  <img align='center' alt='ReactJs' height='30' width='40'
+     <img align='center' alt='ReactJs' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+  <img align='center' alt='ReactJs' height='30' width='40'
+    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
   <img align='center' alt='NodeJS' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
   <img align='center' alt='ReactJs' height='30'
