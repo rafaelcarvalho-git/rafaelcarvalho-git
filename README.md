@@ -79,6 +79,10 @@
     src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg'>
    <img align='center' alt='Rafa-Sonar' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg'>
+     <img align='center' alt='Rafa-Docusaurus' height='30' width='40'
+    src='https://docusaurus.io/pt-BR/img/docusaurus.svg'>
+        <img align='center' alt='Rafa-Strapi' height='30' width='40'
+    src='https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg'>
   <img align='center' alt='Rafa-HTML' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img align='center' alt='Rafa-CSS' height='30' width='40'
