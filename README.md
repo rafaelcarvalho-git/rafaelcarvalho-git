@@ -1,9 +1,10 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
 <h3 align='center'><em>
-   FullStack Web Developer and Information Technology Analyst (IT) I am a student of the Information Systems course
-    Information at IFCE - Crato where I am currently in the 8th semester.
+   FullStack Web Developer and Information Technology Analyst (IT) I'm graduating from the Information Systems course
+    Information at IFCE.
     Motivated to continuously learn and practice my knowledge, I seek to use my skills to contribute
-    meaningful way for the development community.</em>
+    meaningful way for the development community. Developer at Banco do Brasil (CastGroup)
+</em>
 </h3>
 <div align='center'>
   <a href='https://rafaelcarvalho-dev.web.app/' target='_blank'><img
@@ -21,6 +22,8 @@
 <div display: 'inline-block'>
   <img align='center' alt='Javascript' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+     <img align='center' alt='Typescript' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
      <img align='center' alt='ReactJs' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
   <img align='center' alt='ReactJs' height='30' width='40'
@@ -42,9 +45,15 @@
   <img align='center' alt='Rafa-Styled' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg'>
   <img align='center' alt='Rafa-Antd' height='30' width='40'
-src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/antdesign-original.svg'>
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg'>
       <img align='center' alt='Rafa-Styled' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>
+     <img align='center' alt='Rafa-Figma' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg'>
+     <img align='center' alt='Rafa-Canva' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg'>
+     <img align='center' alt='Rafa-Photoshop' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg'>
 </div>
 
 <br>
@@ -59,13 +68,17 @@ src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/antdesign-original.
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg'>
   <img align='center' alt='SQLite' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg'>
-
+   
 </div>
 
 <br>
 
-<h3>👩‍💻 Markup Languages</h3>
+<h3>👩‍💻 Others</h3>
 <div display: 'inline-block'>
+   <img align='center' alt='Rafa-Jenkins' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg'>
+   <img align='center' alt='Rafa-Sonar' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg'>
   <img align='center' alt='Rafa-HTML' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img align='center' alt='Rafa-CSS' height='30' width='40'
