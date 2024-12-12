@@ -114,7 +114,7 @@
 <h2 align='center'>✨ Hobbies </h2>
 <div>
   <p>⚽ Football: My favorite sport that I always play with my friends.</p>
-  <p>🥊 Martial Arts: I train fights like boxing, muay thai, jiu-jitsu, capoeira and taekwondo. I intend to train for
+  <p>🥊 Martial Arts: I train fights like judô, boxing, muay thai, jiu-jitsu, capoeira and taekwondo. I intend to train for
     competitions when you finish college.</p>
   <p>💪 Bodybuilding: I go to the gym whenever possible to keep myself in shape.</p>
   <p>🎮 Games: I like games that have a lot of story and open world, to zero calmly and patiently..</p>
@@ -127,7 +127,7 @@
   <a href='https://api.whatsapp.com/send/?phone=5588988573004&text&app_absent=0' target='_blank'><img
       src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'
       target='_blank'></a>
-  <a href='https://instagram.com/rafaelcarvalho.py' target='_blank'><img
+  <a href='https://instagram.com/rafaelcarvalho.js' target='_blank'><img
       src='https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white'
       target='_blank'></a>
   <a href='mailto:rafaskyplay@gmail.com'><img
