@@ -68,6 +68,8 @@
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg'>
   <img align='center' alt='SQLite' height='30' width='40'
     src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg'>
+   <img align='center' alt='Strapi' height='90' width='100'
+    src='https://strapi.io/assets/strapi-logo-light.svg'>
    
 </div>
 
@@ -81,9 +83,7 @@
     src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg'>
      <img align='center' alt='Rafa-Docusaurus' height='30' width='40'
     src='https://docusaurus.io/pt-BR/img/docusaurus.svg'>
-        <img align='center' alt='Rafa-Strapi' height='30' width='40'
-    src='https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg'>
-  <img align='center' alt='Rafa-HTML' height='30' width='40'
+  <img align='center' alt='Rafa-HTML' height='30' width='35'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img align='center' alt='Rafa-CSS' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
@@ -124,7 +124,7 @@
 
 <h2 align='center'> 📬 Get in Touch</h2>
 <div align='center'>
-  <a href='https://api.whatsapp.com/send/?phone=5588988573004&text&app_absent=0' target='_blank'><img
+  <a href='https://api.whatsapp.com/send/?phone=5588996814509&text&app_absent=0' target='_blank'><img
       src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'
       target='_blank'></a>
   <a href='https://instagram.com/rafaelcarvalho.js' target='_blank'><img
