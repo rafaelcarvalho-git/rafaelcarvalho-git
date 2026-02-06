@@ -75,6 +75,16 @@
 
 <br>
 
+<h3>📈 Agile Methodologies</h3>
+<div display: 'inline-block'>
+   <a><img
+      src='https://img.shields.io/badge/-SCRUM-%234361ee?style=for-the-badge' target='_blank'></a>
+   <a><img
+      src='https://img.shields.io/badge/-KANBAN-%23f8961e?style=for-the-badge' target='_blank'></a>
+</div>
+
+<br>
+
 <h3>👩‍💻 Others</h3>
 <div display: 'inline-block'>
    <img align='center' alt='Rafa-Jenkins' height='30' width='40'
