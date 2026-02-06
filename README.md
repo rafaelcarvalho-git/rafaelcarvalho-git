@@ -30,7 +30,7 @@
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
   <img align='center' alt='NodeJS' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
-  <img align='center' alt='ReactJs' height='30'
+  <img align='center' alt='Axios' height='30'
     src='https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png'>
 </div>
 
