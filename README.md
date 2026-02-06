@@ -7,8 +7,8 @@
 </em>
 </h3>
 <div align='center'>
-  <a href='https://rafaelcarvalho-dev.web.app/' target='_blank'><img
-      src='https://img.shields.io/badge/-PORTF%C3%93LIO-%234361ee?style=for-the-badge' target='_blank'></a>
+  <!-- <a href='https://rafaelcarvalho-dev.web.app/' target='_blank'><img
+      src='https://img.shields.io/badge/-PORTF%C3%93LIO-%234361ee?style=for-the-badge' target='_blank'></a> -->
   <a href='https://www.canva.com/design/DAFCyKyjIeM/kLdG6gaV7tI2FsD36Za0TA/edit?utm_content=DAFCyKyjIeM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
     target='_blank'><img src='https://img.shields.io/badge/-CURR%C3%8DCULO-lightgrey?style=for-the-badge'
       target='_blank'></a>
@@ -101,23 +101,12 @@
 
 <br>
 
-<div align='center'>
-  <a href='https://github.com/rafaelcarvalho-git'>
-    <img height='180em'
-      src='https://github-readme-stats.vercel.app/api?username=rafaelcarvalho-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true' />
-    <img height='180em'
-      src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalho-git&layout=compact&langs_count=7&theme=dark' />
-</div>
-
-<br>
-
 <h2 align='center'>✨ Hobbies </h2>
 <div>
   <p>⚽ Football: My favorite sport that I always play with my friends.</p>
-  <p>🥊 Martial Arts: I train fights like judô, boxing, muay thai, jiu-jitsu, capoeira and taekwondo. I intend to train for
-    competitions when you finish college.</p>
+  <p>🥊 Martial Arts: I train fights like judô, boxing, muay thai, jiu-jitsu, capoeira and taekwondo. I intend to train for competitions when i finish college.</p>
   <p>💪 Bodybuilding: I go to the gym whenever possible to keep myself in shape.</p>
-  <p>🎮 Games: I like games that have a lot of story and open world, to zero calmly and patiently..</p>
+  <p>🎮 Games: I like games that have a lot of story and open world.</p>
   <p>👨‍💻 Programming: I use my free time at home to study and practice programming content.</p>
 </div>
 <br>
