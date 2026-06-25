@@ -7,7 +7,7 @@ Solid experience in software engineering, scalable interface architecture, and c
 </p>
 
 <div align='center'>
-  <a href='https://www.canva.com/design/DAFCyKyjIeM/kLdG6gaV7tI2FsD36Za0TA/edit'
+  <a href='https://github.com/rafaelcarvalho-git/rafaelcarvalho-git/blob/main/Resume%20Rafael%20Candido%20Lacerda%20Carvalho.pdf'
     target='_blank'><img src='https://img.shields.io/badge/-RESUME-lightgrey?style=for-the-badge'
       target='_blank'></a>
 </div>
