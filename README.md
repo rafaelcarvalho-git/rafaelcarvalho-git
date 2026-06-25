@@ -1,16 +1,14 @@
 <h1 align='center'> 👋 Hello, I'm Rafael Carvalho </h1>
-<h3 align='center'><em>
-   FullStack Web Developer and Information Technology Analyst (IT) I'm graduating from the Information Systems course
-    Information at IFCE.
-    Motivated to continuously learn and practice my knowledge, I seek to use my skills to contribute
-    meaningful way for the development community. Developer at Banco do Brasil (CastGroup)
-</em>
+<h3 align='center'>
+   Fullstack Developer | Architectural Integration Analyst
 </h3>
+<p align='center'>
+Solid experience in software engineering, scalable interface architecture, and complex API integrations. Operating in high-complexity corporate environments at Banco do Brasil (Cast Group). Focus on frontend architecture, continuous code evaluation, and performance optimization across diverse modern web frameworks. Combining a strong academic foundation—holding a degree in Information Systems (IFCE) and pursuing Analysis and Systems Development (Estácio)—with practical proficiency in AI-assisted development (GitHub Copilot) and CI/CD pipelines to ensure high standards of quality and scalability.
+</p>
+
 <div align='center'>
-  <!-- <a href='https://rafaelcarvalho-dev.web.app/' target='_blank'><img
-      src='https://img.shields.io/badge/-PORTF%C3%93LIO-%234361ee?style=for-the-badge' target='_blank'></a> -->
-  <a href='https://www.canva.com/design/DAFCyKyjIeM/kLdG6gaV7tI2FsD36Za0TA/edit?utm_content=DAFCyKyjIeM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
-    target='_blank'><img src='https://img.shields.io/badge/-CURR%C3%8DCULO-lightgrey?style=for-the-badge'
+  <a href='https://www.canva.com/design/DAFCyKyjIeM/kLdG6gaV7tI2FsD36Za0TA/edit'
+    target='_blank'><img src='https://img.shields.io/badge/-RESUME-lightgrey?style=for-the-badge'
       target='_blank'></a>
 </div>
 
@@ -18,7 +16,7 @@
 
 <h2 align='center'> 👩‍💻 My Professional Skills </h2>
 
-<h3>🚀 Programming Languages, Frameworks and Libraries</h3>
+<h3>🚀 Programming Languages, Frameworks & Libraries</h3>
 <div display: 'inline-block'>
   <img align='center' alt='Javascript' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
@@ -58,7 +56,7 @@
 
 <br>
 
-<h3>💾 Back-end and Database</h3>
+<h3>💾 Back-end & Database</h3>
 <div display: 'inline-block'>
   <img align='center' alt='Php' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'>
@@ -75,38 +73,36 @@
 
 <br>
 
-<h3>📈 Agile Methodologies</h3>
+<h3>⚙️ DevOps, AI & Methodologies</h3>
 <div display: 'inline-block'>
-   <a><img
-      src='https://img.shields.io/badge/-SCRUM-%234361ee?style=for-the-badge' target='_blank'></a>
-   <a><img
-      src='https://img.shields.io/badge/-KANBAN-%23f8961e?style=for-the-badge' target='_blank'></a>
-</div>
-
-<br>
-
-<h3>👩‍💻 Others</h3>
-<div display: 'inline-block'>
-   <img align='center' alt='Rafa-Jenkins' height='30' width='40'
-    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg'>
-   <img align='center' alt='Rafa-Sonar' height='30' width='40'
-    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg'>
-     <img align='center' alt='Rafa-Docusaurus' height='30' width='40'
-    src='https://docusaurus.io/pt-BR/img/docusaurus.svg'>
-  <img align='center' alt='Rafa-HTML' height='30' width='35'
+   <img align='center' alt='Rafa-HTML' height='30' width='35'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img align='center' alt='Rafa-CSS' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
+  <img align='center' alt='GitHub Copilot' height='30'
+    src='https://img.shields.io/badge/GitHub_Copilot-2b3137?style=for-the-badge&logo=github-copilot&logoColor=white'>
+  <img align='center' alt='GitLab' height='30' width='40'
+    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg'>
+  <img align='center' alt='Jenkins' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg'>
+  <img align='center' alt='SonarQube' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg'>
+   <img align='center' alt='Argocd' height='30' width='40'
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg'>
+  <img align='center' alt='Docusaurus' height='30' width='40'
+    src='https://docusaurus.io/pt-BR/img/docusaurus.svg'>
+  <br><br>
+  <a><img src='https://img.shields.io/badge/-CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white'></a>
+  <a><img src='https://img.shields.io/badge/-SCRUM-%234361ee?style=for-the-badge'></a>
+  <a><img src='https://img.shields.io/badge/-KANBAN-%23f8961e?style=for-the-badge'></a>
 </div>
 
 <br>
 
-<h3>📚 Views in College</h3>
-<div display: 'inline-block'>
-  <img align='center' alt='Python' height='30' width='40'
-    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-  <img align='center' alt='Java' height='30' width='40'
-    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
+<h3>📚 Education</h3>
+<div>
+  <p>🎓 <b>B.S. Analysis and Systems Development</b> - Estácio (In Progress)</p>
+  <p>🎓 <b>B.S. Information Systems</b> - IFCE</p>
 </div>
 
 <br>
