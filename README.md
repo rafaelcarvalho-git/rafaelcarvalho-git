@@ -24,6 +24,8 @@ Solid experience in software engineering, scalable interface architecture, and c
     src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
      <img align='center' alt='ReactJs' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+     <img align='center' alt='NextJs' height='30' width='40'
+    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'>
   <img align='center' alt='ReactJs' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
   <img align='center' alt='NodeJS' height='30' width='40'
@@ -37,6 +39,8 @@ Solid experience in software engineering, scalable interface architecture, and c
 <h3>🎨 Styles and Design</h3>
 
 <div display: 'inline-block'>
+   <img align='center' alt='Rafa-Bootstrap' height='30' width='40'
+    src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg'>
   <img align='center' alt='Rafa-Bootstrap' height='30' width='40'
     src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
   <img align='center' alt='Rafa-Styled' height='30' width='30' src='https://www.styled-components.com/atom.png'>
